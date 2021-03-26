@@ -1,7 +1,7 @@
 ## Obedient Cat
 This problem requires you to download a file, and read it using the cat command.
 
-```bash
+```console
 wget https://mercury.picoctf.net/static/704f877da185904ec3992e7255a15c6c/flag
 cat flag.1
 ```
