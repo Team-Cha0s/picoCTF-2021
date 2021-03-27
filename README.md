@@ -1,4 +1,4 @@
-# picoctf-2021
+# picoCTF-2021
 
 picoCTF 2021 Write-Ups by Team Cha0s (final score: , final placement globaly: ).
 
