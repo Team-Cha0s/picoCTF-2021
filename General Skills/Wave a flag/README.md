@@ -1,4 +1,4 @@
-## Python Wrangling
+## Wave a flag
 
 This problem requires you to run the executable with a '-h'
 
