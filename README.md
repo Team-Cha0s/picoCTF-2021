@@ -3,9 +3,7 @@
 picoCTF 2021 Write-Ups by Team Cha0s (final score: , final placement globaly: ).
 
 For the following tables,
-:white_check_mark: indicates a completed puzzle and write-up,
-:black_large_square: a completed puzzle with no write-up, and
-:x: an incomplete puzzle.
+:white_check_mark: indicates a completed puzzle and write-up, and :x: an incomplete puzzle.
 
 ## General Skills
 
