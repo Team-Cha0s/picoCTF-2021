@@ -20,6 +20,10 @@ For the following tables,
 
 ## Forensics
 
+| Name                               | Points |         Done         |
+| ---------------------------------- | -----: | :------------------: |
+| [information]                      |     10|  :white_check_mark:   |
+
 
 ## Web Exploitation
 
