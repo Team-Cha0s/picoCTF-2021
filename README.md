@@ -50,7 +50,7 @@ For the following tables,
 | Some Assembly Required 2           |     110 |  :white_check_mark:  |
 | Super Serial                       |     130 |  :white_check_mark:  |
 | Most Cookies                       |     150 |  :white_check_mark:  |
-| It is my Birthday                  |     100 |  :white_check_mark:  |
+| Some Assembly Required 3           |     160 |  :white_check_mark:  |
 
 ## Cryptography
 
