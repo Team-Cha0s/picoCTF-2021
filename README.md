@@ -10,7 +10,7 @@ For the following tables,
 | Name                               | Points |         Done         |
 | ---------------------------------- | -----: | :------------------: |
 | [Obedient Cat](General%20Skills/Obedient%20Cat)|      5 |  :white_check_mark:  |
-| Python Wrangling                   |     10 |  :white_check_mark:  |
+| [Python Wrangling](General%20Skills/Python%20Wrangling)                   |     10 |  :white_check_mark:  |
 | Wave a flag                        |     10 |  :white_check_mark:  |
 | Nice netcat...                     |     15 |  :white_check_mark:  |
 | Static ain't always noise          |     20 |  :white_check_mark:  |
