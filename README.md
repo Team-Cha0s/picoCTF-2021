@@ -12,22 +12,13 @@ For the following tables,
 | Name                               | Points |         Done         |
 | ---------------------------------- | -----: | :------------------: |
 | Obedient Cat                       |      5 |  :white_check_mark:  |
-| [2Warm](general/2Warm)             |     50 |  :white_check_mark:  |
-| [Lets Warm Up](general/LetsWarmUp) |     50 |  :white_check_mark:  |
-| [Warmed Up](general/WarmedUp)      |     50 |  :white_check_mark:  |
-| [Bases](general/Bases)             |    100 |  :white_check_mark:  |
-| First Grep                         |    100 | :black_large_square: |
-| Resources                          |    100 | :black_large_square: |
-| strings it                         |    100 | :black_large_square: |
-| what's a net cat                   |    100 | :black_large_square: |
-| Based                              |    200 | :black_large_square: |
-| First Grep: Part II                |    200 | :black_large_square: |
-| plumbing                           |    200 | :black_large_square: |
-| whats-the-difference               |    200 | :black_large_square: |
-| where-is-the-file                  |    200 | :black_large_square: |
-| flag_shop                          |    200 | :black_large_square: |
-| mus1c                              |    200 | :black_large_square: |
-| 1_wanna_b3_a_r0ck5tar              |    200 | :black_large_square: |
+| Python Wrangling                   |     10 |  :white_check_mark:  |
+| Wave a flag                        |     10 |  :white_check_mark:  |
+| Nice netcat...                     |     15 |  :white_check_mark:  |
+| Static ain't always noise          |     20 |  :white_check_mark:  |
+| Tab, Tab, Attack                   |     20 |  :white_check_mark:  |
+| Magikarp Ground Mission            |     30 |  :white_check_mark:  |
+
 
 ## Forensics
 
