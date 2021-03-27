@@ -51,6 +51,7 @@ For the following tables,
 | Super Serial                       |     130 |  :white_check_mark:  |
 | Most Cookies                       |     150 |  :white_check_mark:  |
 | Some Assembly Required 3           |     160 |  :white_check_mark:  |
+| Some Assembly Required 4           |     200 |  :white_check_mark:  |
 
 ## Cryptography
 
