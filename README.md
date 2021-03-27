@@ -48,7 +48,7 @@ For the following tables,
 | Some Assembly Required 1           |     70 |  :white_check_mark:  |
 | More Cookies                       |     90 |  :white_check_mark:  |
 | Some Assembly Required 2           |     110 |  :white_check_mark:  |
-| It is my Birthday                  |     100 |  :white_check_mark:  |
+| Super Serial                       |     130 |  :white_check_mark:  |
 | It is my Birthday                  |     100 |  :white_check_mark:  |
 | It is my Birthday                  |     100 |  :white_check_mark:  |
 
