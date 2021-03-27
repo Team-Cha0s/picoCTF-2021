@@ -47,6 +47,9 @@ For the following tables,
 | Who are you?                       |     60 |  :white_check_mark:  |
 | Some Assembly Required 1           |     70 |  :white_check_mark:  |
 | More Cookies                       |     90 |  :white_check_mark:  |
+| Some Assembly Required 2           |     110 |  :white_check_mark:  |
+| It is my Birthday                  |     100 |  :white_check_mark:  |
+| It is my Birthday                  |     100 |  :white_check_mark:  |
 | It is my Birthday                  |     100 |  :white_check_mark:  |
 
 ## Cryptography
