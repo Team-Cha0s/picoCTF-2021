@@ -45,7 +45,7 @@ For the following tables,
 | Cookies                            |     40 |  :white_check_mark:  |
 | Scavenger Hunt                     |     50 |  :white_check_mark:  |
 | Who are you?                       |     60 |  :white_check_mark:  |
-| Some Assembly Required 1           |     60 |  :white_check_mark:  |
+| Some Assembly Required 1           |     70 |  :white_check_mark:  |
 ## Cryptography
 
 ## Binary Exploitation
