@@ -9,7 +9,7 @@ For the following tables,
 
 | Name                               | Points |         Done         |
 | ---------------------------------- | -----: | :------------------: |
-| Obedient Cat                       |      5 |  :white_check_mark:  |
+| [Obedient Cat](General Skills/Obedient Cat)|      5 |  :white_check_mark:  |
 | Python Wrangling                   |     10 |  :white_check_mark:  |
 | Wave a flag                        |     10 |  :white_check_mark:  |
 | Nice netcat...                     |     15 |  :white_check_mark:  |
