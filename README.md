@@ -1,7 +1,6 @@
-# picoCTF
-# picoctf-2019
+# picoctf-2021
 
-picoCTF 2019 Write-Ups by Team Omega (final score: 25001, final placement: 159th).
+picoCTF 2019 Write-Ups by Team Cha0s (final score: , final placement globaly: ).
 
 For the following tables,
 :white_check_mark: indicates a completed puzzle and write-up,
