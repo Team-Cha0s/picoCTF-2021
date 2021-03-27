@@ -11,7 +11,7 @@ For the following tables,
 
 | Name                               | Points |         Done         |
 | ---------------------------------- | -----: | :------------------: |
-| The Factory's Secret               |      1 | :black_large_square: |
+| Obedient Cat                       |      5 | :black_large_square: |
 | [2Warm](general/2Warm)             |     50 |  :white_check_mark:  |
 | [Lets Warm Up](general/LetsWarmUp) |     50 |  :white_check_mark:  |
 | [Warmed Up](general/WarmedUp)      |     50 |  :white_check_mark:  |
