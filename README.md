@@ -38,6 +38,14 @@ For the following tables,
 
 ## Web Exploitation
 
+| Name                               | Points |         Done         |
+| ---------------------------------- | -----: | :------------------: |
+| Ancient History                    |     10 |  :white_check_mark:  |
+| GET aHEAD                          |     20 |  :white_check_mark:  |
+| Cookies                            |     40 |  :white_check_mark:  |
+| Scavenger Hunt                     |     50 |  :white_check_mark:  |
+| Who are you?                       |     60 |  :white_check_mark:  |
+| Some Assembly Required 1           |     60 |  :white_check_mark:  |
 ## Cryptography
 
 ## Binary Exploitation
