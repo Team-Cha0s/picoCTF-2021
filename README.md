@@ -34,6 +34,7 @@ For the following tables,
 | Disk, disk, sleuth! II             |    130 |  :white_check_mark:  |
 | Surfing the Waves                  |    150 |  :white_check_mark:  |
 | Milkslap                           |    200 |  :white_check_mark:  |
+| Very very very Hidden              |    300 |  :white_check_mark:  |
 
 ## Web Exploitation
 
