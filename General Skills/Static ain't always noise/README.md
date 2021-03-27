@@ -1,6 +1,6 @@
 ## Static ain't always noise
 
-This problem requires you to run the executable with a '-h'
+This problem requires you run the bash script with the 'static' file, then search through the outputted file for the flag
 
 ```bash
 $ wget https://mercury.picoctf.net/static/66932732825076cad4ba43e463dae82f/static
