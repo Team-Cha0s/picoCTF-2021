@@ -22,8 +22,13 @@ For the following tables,
 
 | Name                               | Points |         Done         |
 | ---------------------------------- | -----: | :------------------: |
-| [information]                      |     10|  :white_check_mark:   |
-
+| information                        |     10 |  :white_check_mark:  |
+| Weird File                         |     10 |  :white_check_mark:  |
+| Matryoshka doll                    |     10 |  :white_check_mark:  |
+| tunn3l v1s10n                      |     10 |  :white_check_mark:  |
+| Wireshark doo dooo do doo...       |     10 |  :white_check_mark:  |
+| MacroHard WeakEdge                 |     10 |  :white_check_mark:  |
+| Trivial Flag Transfer Protocol     |     10 |  :white_check_mark:  |
 
 ## Web Exploitation
 
