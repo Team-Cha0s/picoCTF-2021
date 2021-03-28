@@ -57,6 +57,11 @@ For the following tables,
 | Bithug                             |     500 |  :white_check_mark:  |
 
 ## Cryptography
+| Name                               | Points |         Done         |
+| ---------------------------------- | -----: | :------------------: |
+| Mod 26                             |     10 |  :white_check_mark:  |
+| Mind your Ps and Qs                |     20 |  :white_check_mark:  |
+
 
 ## Binary Exploitation
 
