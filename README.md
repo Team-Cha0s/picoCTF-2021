@@ -64,7 +64,7 @@ For the following tables,
 | Easy Peasy                         |     40 |  :white_check_mark:  |
 | New Caeser                         |     60 |  :white_check_mark:  |
 | Mini RSA                           |     70 |  :white_check_mark:  |
-| Mini RSA                           |     70 |  :white_check_mark:  |
+| Dacshund Attacks                   |     70 |  :white_check_mark:  |
 
 ## Binary Exploitation
 
