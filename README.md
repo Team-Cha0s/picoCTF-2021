@@ -65,7 +65,7 @@ For the following tables,
 | New Caeser                         |     60 |  :white_check_mark:  |
 | Mini RSA                           |     70 |  :white_check_mark:  |
 | Dacshund Attacks                   |     80 |  :white_check_mark:  |
-| No Padding, No Problem             |     80 |  :white_check_mark:  |
+| No Padding, No Problem             |     90 |  :white_check_mark:  |
 
 ## Binary Exploitation
 
