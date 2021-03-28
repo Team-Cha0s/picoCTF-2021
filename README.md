@@ -67,7 +67,7 @@ For the following tables,
 | Dacshund Attacks                   |     80 |  :white_check_mark:  |
 | No Padding, No Problem             |     90 |  :white_check_mark:  |
 | It's Not My Fault 1                |    100 |  :white_check_mark:  |
-| It's Not My Fault 1                |    100 |  :white_check_mark:  |
+| Play Nice                          |    100 |  :white_check_mark:  |
 
 ## Binary Exploitation
 
