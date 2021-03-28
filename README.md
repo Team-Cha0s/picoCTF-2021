@@ -53,6 +53,7 @@ For the following tables,
 | Some Assembly Required 3           |     160 |  :white_check_mark:  |
 | Some Assembly Required 4           |     200 |  :white_check_mark:  |
 | [X marks the spot](/Web%20Exploitation/X_Marks_The_Spot)                   |     250 |  :white_check_mark:  |
+| Web Gauntlet 3                     |     300 |  :white_check_mark:  |
 
 ## Cryptography
 
