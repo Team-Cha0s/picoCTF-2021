@@ -54,7 +54,7 @@ For the following tables,
 | Some Assembly Required 4           |     200 |  :white_check_mark:  |
 | [X marks the spot](/Web%20Exploitation/X_Marks_The_Spot)                   |     250 |  :white_check_mark:  |
 | Web Gauntlet 3                     |     300 |  :white_check_mark:  |
-| Bithug                             |     300 |  :white_check_mark:  |
+| Bithug                             |     500 |  :white_check_mark:  |
 
 ## Cryptography
 
