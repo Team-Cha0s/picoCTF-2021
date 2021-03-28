@@ -40,7 +40,7 @@ For the following tables,
 
 | Name                               | Points |         Done         |
 | ---------------------------------- | -----: | :------------------: |
-| [Ancient History](/Web%20Exploitation/Ancient%20History)                    |     10 |  :white_check_mark:  |
+| [Ancient History](/Web%20Exploitation/Ancient%20History)                    |     10 |  :white_check_mark: |
 | [GET aHEAD](/Web%20Exploitation/GET%20aHEAD)                          |     20 |  :white_check_mark:  |
 | [Cookies](/Web%20Exploitation/Cookies)                            |     40 |  :white_check_mark:  |
 | [Scavenger Hunt](/Web%20Exploitation/Scavenger%20Hunt)                     |     50 |  :white_check_mark:  |
