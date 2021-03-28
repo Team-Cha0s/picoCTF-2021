@@ -66,6 +66,7 @@ For the following tables,
 | Mini RSA                           |     70 |  :white_check_mark:  |
 | Dacshund Attacks                   |     80 |  :white_check_mark:  |
 | No Padding, No Problem             |     90 |  :white_check_mark:  |
+| It's Not My Fault 1                |    100 |  :white_check_mark:  |
 
 ## Binary Exploitation
 
