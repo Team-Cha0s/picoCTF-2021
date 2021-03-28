@@ -63,7 +63,7 @@ For the following tables,
 | Mind your Ps and Qs                |     20 |  :white_check_mark:  |
 | Easy Peasy                         |     40 |  :white_check_mark:  |
 | New Caeser                         |     60 |  :white_check_mark:  |
-| New Caeser                         |     60 |  :white_check_mark:  |
+| Mini RSA                           |     70 |  :white_check_mark:  |
 
 ## Binary Exploitation
 
