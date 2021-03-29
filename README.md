@@ -70,7 +70,7 @@ For the following tables,
 | Play Nice                          |    110 |  :white_check_mark:  |
 | Double DES                         |    120 |  :white_check_mark:  |
 | Compress and Attack                |    130 |  :white_check_mark:  |
-| Scrambled RSA                      |    130 |  :white_check_mark:  |
+| Scrambled RSA                      |    140 |  :white_check_mark:  |
 
 ## Binary Exploitation
 
