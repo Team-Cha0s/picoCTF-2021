@@ -40,21 +40,34 @@ For the following tables,
 
 | Name                               | Points |         Done         |
 | ---------------------------------- | -----: | :------------------: |
-| Ancient History                    |     10 |  :white_check_mark:  |
-| GET aHEAD                          |     20 |  :white_check_mark:  |
-| Cookies                            |     40 |  :white_check_mark:  |
-| Scavenger Hunt                     |     50 |  :white_check_mark:  |
-| Who are you?                       |     60 |  :white_check_mark:  |
-| Some Assembly Required 1           |     70 |  :white_check_mark:  |
+| [Ancient History](/Web%20Exploitation/Ancient%20History)                    |     10 |  :white_check_mark: |
+| [GET aHEAD](/Web%20Exploitation/GET%20aHEAD)                          |     20 |  :white_check_mark:  |
+| [Cookies](/Web%20Exploitation/Cookies)                            |     40 |  :white_check_mark:  |
+| [Scavenger Hunt](/Web%20Exploitation/Scavenger%20Hunt)                     |     50 |  :white_check_mark:  |
+| [Who are you?](/Web%20Exploitation/Who%20are%20you)                       |     60 |  :white_check_mark:  |
+| [Some Assembly Required 1]()           |     70 |  :white_check_mark:  |
 | More Cookies                       |     90 |  :white_check_mark:  |
 | Some Assembly Required 2           |     110 |  :white_check_mark:  |
-| Super Serial                       |     130 |  :white_check_mark:  |
+| [Super Serial](/Web%20Exploitation/Some%20Assembly%20Required%201)                       |     130 |  :white_check_mark:  |
 | Most Cookies                       |     150 |  :white_check_mark:  |
 | Some Assembly Required 3           |     160 |  :white_check_mark:  |
 | Some Assembly Required 4           |     200 |  :white_check_mark:  |
-| X marks the spot                   |     250 |  :white_check_mark:  |
+| [X marks the spot](/Web%20Exploitation/X_Marks_The_Spot)                   |     250 |  :white_check_mark:  |
+| Web Gauntlet 3                     |     300 |  :white_check_mark:  |
+| Bithug                             |     500 |  :white_check_mark:  |
 
 ## Cryptography
+| Name                               | Points |         Done         |
+| ---------------------------------- | -----: | :------------------: |
+| Mod 26                             |     10 |  :white_check_mark:  |
+| Mind your Ps and Qs                |     20 |  :white_check_mark:  |
+| Easy Peasy                         |     40 |  :white_check_mark:  |
+| New Caeser                         |     60 |  :white_check_mark:  |
+| Mini RSA                           |     70 |  :white_check_mark:  |
+| Dacshund Attacks                   |     80 |  :white_check_mark:  |
+| No Padding, No Problem             |     90 |  :white_check_mark:  |
+| It's Not My Fault 1                |    100 |  :white_check_mark:  |
+| Play Nice                          |    110 |  :white_check_mark:  |
 
 ## Binary Exploitation
 
