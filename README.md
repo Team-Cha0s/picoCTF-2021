@@ -47,6 +47,7 @@ For the following tables,
 | [Who are you?](/Web%20Exploitation/Who%20are%20you)                       |     60 |  :white_check_mark:  |
 | [Some Assembly Required 1](/Web%20Exploitation/Some%20Assembly%20Required%201)           |     70 |  :white_check_mark:  |
 | More Cookies                       |     90 |  :white_check_mark:  |
+| It is my Birthday                       |     100 |  :white_check_mark:  |
 | Some Assembly Required 2           |     110 |  :white_check_mark:  |
 | [Super Serial](/Web%20Exploitation/Some%20Assembly%20Required%201)                       |     130 |  :white_check_mark:  |
 | [Most Cookies](/Web%20Exploitation/Most%20Cookies)                       |     150 |  :white_check_mark:  |
