@@ -45,11 +45,11 @@ For the following tables,
 | [Cookies](/Web%20Exploitation/Cookies)                            |     40 |  :white_check_mark:  |
 | [Scavenger Hunt](/Web%20Exploitation/Scavenger%20Hunt)                     |     50 |  :white_check_mark:  |
 | [Who are you?](/Web%20Exploitation/Who%20are%20you)                       |     60 |  :white_check_mark:  |
-| [Some Assembly Required 1]()           |     70 |  :white_check_mark:  |
+| [Some Assembly Required 1](/Web%20Exploitation/Some%20Assembly%20Required%201)           |     70 |  :white_check_mark:  |
 | More Cookies                       |     90 |  :white_check_mark:  |
 | Some Assembly Required 2           |     110 |  :white_check_mark:  |
 | [Super Serial](/Web%20Exploitation/Some%20Assembly%20Required%201)                       |     130 |  :white_check_mark:  |
-| Most Cookies                       |     150 |  :white_check_mark:  |
+| [Most Cookies](/Web%20Exploitation/Most%20Cookies)                       |     150 |  :white_check_mark:  |
 | Some Assembly Required 3           |     160 |  :white_check_mark:  |
 | Some Assembly Required 4           |     200 |  :white_check_mark:  |
 | [X marks the spot](/Web%20Exploitation/X_Marks_The_Spot)                   |     250 |  :white_check_mark:  |
