@@ -22,10 +22,10 @@ For the following tables,
 
 | Name                               | Points |         Done         |
 | ---------------------------------- | -----: | :------------------: |
-| information                        |     10 |  :white_check_mark:  |
+| [information](/Forensics/information)                        |     10 |  :white_check_mark:  |
 | Weird File                         |     20 |  :white_check_mark:  |
 | Matryoshka doll                    |     30 |  :white_check_mark:  |
-| tunn3l v1s10n                      |     40 |  :white_check_mark:  |
+| [tunn3l v1s10n](/Forensics/Tunnel_Vision)                      |     40 |  :white_check_mark:  |
 | Wireshark doo dooo do doo...       |     50 |  :white_check_mark:  |
 | MacroHard WeakEdge                 |     60 |  :white_check_mark:  |
 | Trivial Flag Transfer Protocol     |     90 |  :white_check_mark:  |
@@ -33,8 +33,8 @@ For the following tables,
 | Disk, disk, sleuth!                |    110 |  :white_check_mark:  |
 | Disk, disk, sleuth! II             |    130 |  :white_check_mark:  |
 | Surfing the Waves                  |    150 |  :white_check_mark:  |
-| Milkslap                           |    200 |  :white_check_mark:  |
-| Very very very Hidden              |    300 |  :white_check_mark:  |
+| [Milkslap](/Forensics/Milkslap)                           |    200 |  :white_check_mark:  |
+| [Very very very Hidden](/Forensics/VeryVeryVeryHidden)              |    300 |  :white_check_mark:  |
 
 ## Web Exploitation
 
@@ -68,6 +68,13 @@ For the following tables,
 | No Padding, No Problem             |     90 |  :white_check_mark:  |
 | It's Not My Fault 1                |    100 |  :white_check_mark:  |
 | Play Nice                          |    110 |  :white_check_mark:  |
+| Double DES                         |    120 |  :white_check_mark:  |
+| Compress and Attack                |    130 |  :white_check_mark:  |
+| Scrambled RSA                      |    140 |  :white_check_mark:  |
+| It is my Birthday 2                |    170 |  :white_check_mark:  |
+| Pixelated                          |    200 |  :white_check_mark:  |
+| New Vignere                        |    300 |  :white_check_mark:  |
+| It's not my Fault 2                |    400 | :x:                  |
 
 ## Binary Exploitation
 
