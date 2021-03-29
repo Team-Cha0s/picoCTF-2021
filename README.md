@@ -72,7 +72,7 @@ For the following tables,
 | Compress and Attack                |    130 |  :white_check_mark:  |
 | Scrambled RSA                      |    140 |  :white_check_mark:  |
 | It is my Birthday 2                |    170 |  :white_check_mark:  |
-| Pixelated                          |    170 |  :white_check_mark:  |
+| Pixelated                          |    200 |  :white_check_mark:  |
 
 ## Binary Exploitation
 
