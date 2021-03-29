@@ -74,6 +74,7 @@ For the following tables,
 | It is my Birthday 2                |    170 |  :white_check_mark:  |
 | Pixelated                          |    200 |  :white_check_mark:  |
 | New Vignere                        |    300 |  :white_check_mark:  |
+| New Vignere                        |    300 |  :white_check_mark:  |
 
 ## Binary Exploitation
 
