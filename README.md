@@ -51,6 +51,8 @@ For the following tables,
 | [Super Serial](/Web%20Exploitation/Some%20Assembly%20Required%201)                       |     130 |  :white_check_mark:  |
 | [Most Cookies](/Web%20Exploitation/Most%20Cookies)                       |     150 |  :white_check_mark:  |
 | Some Assembly Required 3           |     160 |  :white_check_mark:  |
+| Web Gauntlet 2           |     170 |  :white_check_mark:  |
+| Startup Company           |     180 |  :white_check_mark:  |
 | Some Assembly Required 4           |     200 |  :white_check_mark:  |
 | [X marks the spot](/Web%20Exploitation/X_Marks_The_Spot)                   |     250 |  :white_check_mark:  |
 | Web Gauntlet 3                     |     300 |  :white_check_mark:  |
