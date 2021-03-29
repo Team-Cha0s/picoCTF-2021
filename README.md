@@ -74,7 +74,7 @@ For the following tables,
 | It is my Birthday 2                |    170 |  :white_check_mark:  |
 | Pixelated                          |    200 |  :white_check_mark:  |
 | New Vignere                        |    300 |  :white_check_mark:  |
-| It's not my Fault 2                       |    300 |  ❎  |
+| It's not my Fault 2                       |    300 |  🟥  |
 
 ## Binary Exploitation
 
