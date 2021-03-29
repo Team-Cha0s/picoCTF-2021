@@ -71,6 +71,7 @@ For the following tables,
 | Double DES                         |    120 |  :white_check_mark:  |
 | Compress and Attack                |    130 |  :white_check_mark:  |
 | Scrambled RSA                      |    140 |  :white_check_mark:  |
+| It is my Birthday                     |    140 |  :white_check_mark:  |
 
 ## Binary Exploitation
 
