@@ -69,7 +69,7 @@ For the following tables,
 | It's Not My Fault 1                |    100 |  :white_check_mark:  |
 | Play Nice                          |    110 |  :white_check_mark:  |
 | Double DES                         |    120 |  :white_check_mark:  |
-| Compress and Attack                        |    130 |  :white_check_mark:  |
+| Compress and Attack                |    130 |  :white_check_mark:  |
 
 ## Binary Exploitation
 
