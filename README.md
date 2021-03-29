@@ -68,6 +68,8 @@ For the following tables,
 | No Padding, No Problem             |     90 |  :white_check_mark:  |
 | It's Not My Fault 1                |    100 |  :white_check_mark:  |
 | Play Nice                          |    110 |  :white_check_mark:  |
+| Double DES                         |    120 |  :white_check_mark:  |
+| Compress and Atac                        |    110 |  :white_check_mark:  |
 
 ## Binary Exploitation
 
