@@ -88,6 +88,7 @@ For the following tables,
 | Binary Gauntlet 1                  |     30 |  :white_check_mark:  |
 | What's your input?                 |     50 |  :white_check_mark:  |
 | Binary Gauntlet 2                  |     50 |  :white_check_mark:  |
+| Cache Me Outside                   |     70 |  :white_check_mark:  |
 
 
 ## Reverse Engineering
