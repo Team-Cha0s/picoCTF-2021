@@ -85,7 +85,7 @@ For the following tables,
 | ---------------------------------- | -----: | :------------------: |
 | Binary Gauntlet 0                  |     10 |  :white_check_mark:  |
 | Stonks                             |     20 |  :white_check_mark:  |
-| Binary Gauntlet 1                  |     20 |  :white_check_mark:  |
+| Binary Gauntlet 1                  |     30 |  :white_check_mark:  |
 
 
 ## Reverse Engineering
