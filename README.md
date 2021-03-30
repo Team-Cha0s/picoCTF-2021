@@ -81,6 +81,26 @@ For the following tables,
 | Clouds                             |    500 |         :x:          |
 
 ## Binary Exploitation
+| Name                               | Points |         Done         |
+| ---------------------------------- | -----: | :------------------: |
+| Binary Gauntlet 0                  |     10 |  :white_check_mark:  |
+| Mind your Ps and Qs                |     20 |  :white_check_mark:  |
+| Easy Peasy                         |     40 |  :white_check_mark:  |
+| New Caeser                         |     60 |  :white_check_mark:  |
+| Mini RSA                           |     70 |  :white_check_mark:  |
+| Dacshund Attacks                   |     80 |  :white_check_mark:  |
+| No Padding, No Problem             |     90 |  :white_check_mark:  |
+| It's Not My Fault 1                |    100 |  :white_check_mark:  |
+| Play Nice                          |    110 |  :white_check_mark:  |
+| Double DES                         |    120 |  :white_check_mark:  |
+| Compress and Attack                |    130 |  :white_check_mark:  |
+| Scrambled RSA                      |    140 |  :white_check_mark:  |
+| It is my Birthday 2                |    170 |  :white_check_mark:  |
+| Pixelated                          |    200 |  :white_check_mark:  |
+| New Vignere                        |    300 |  :white_check_mark:  |
+| It's not my Fault 2                |    400 |         :x:          |
+| Clouds                             |    500 |         :x:          |
+
 
 ## Reverse Engineering
 
