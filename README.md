@@ -62,7 +62,7 @@ For the following tables,
 ## Cryptography
 | Name                               | Points |         Done         |
 | ---------------------------------- | -----: | :------------------: |
-| Mod 26                             |     10 |  :white_check_mark:  |
+| [Mod 26](Cyrptography/Mod%2026)    |     10 |  :white_check_mark:  |
 | Mind your Ps and Qs                |     20 |  :white_check_mark:  |
 | Easy Peasy                         |     40 |  :white_check_mark:  |
 | New Caeser                         |     60 |  :white_check_mark:  |
