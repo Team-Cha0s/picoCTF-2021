@@ -1,10 +1,5 @@
-## Mod 26
+>Cryptography can be easy, do you know what ROT13 is?
 
-This problem requires you to decode the rot 13 encoded text. 
+All you have to do for this challenge is use the ROT13 recipe in cyberchef we can produce the flag from the ciphertext.
 
-Here is a tool you can use: https://cryptii.com/pipes/rot13-decoder
-
-
-### Flag
-`picoCTF{next_time_I'll_try_2_rounds_of_rot13_wqWOSBKW}`
-
+>picoCTF{next_time_I'll_try_2_rounds_of_rot13_TLcKBUdK}
