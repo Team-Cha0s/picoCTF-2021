@@ -31,7 +31,7 @@ For the following tables,
 | Trivial Flag Transfer Protocol     |     90 |  :white_check_mark:  |
 | Wireshark twoo twooo two twoo...   |    100 |  :white_check_mark:  |
 | Disk, disk, sleuth!                |    110 |  :white_check_mark:  |
-| Disk, disk, sleuth! II             |    130 |  :white_check_mark:  |
+| [Disk, disk, sleuth! II](/Forensics/DiskDiskSleuth2)   |    130 |  :white_check_mark:  |
 | Surfing the Waves                  |    150 |  :white_check_mark:  |
 | [Milkslap](/Forensics/Milkslap)                           |    200 |  :white_check_mark:  |
 | [Very very very Hidden](/Forensics/VeryVeryVeryHidden)              |    300 |  :white_check_mark:  |
