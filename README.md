@@ -78,7 +78,7 @@ For the following tables,
 | Pixelated                          |    200 |  :white_check_mark:  |
 | New Vignere                        |    300 |  :white_check_mark:  |
 | It's not my Fault 2                |    400 |         :x:          |
-| Clouds                             |    500 |         :x:          |
+
 
 ## Binary Exploitation
 | Name                               | Points |         Done         |
