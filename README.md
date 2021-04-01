@@ -89,7 +89,7 @@ For the following tables,
 | What's your input?                 |     50 |  :white_check_mark:  |
 | Binary Gauntlet 2                  |     50 |  :white_check_mark:  |
 | Cache Me Outside                   |     70 |  :white_check_mark:  |
-
+| Clouds                             |    500 |         :x:          |
 
 ## Reverse Engineering
 
