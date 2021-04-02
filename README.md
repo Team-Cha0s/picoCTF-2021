@@ -30,7 +30,7 @@ For the following tables,
 | MacroHard WeakEdge                 |     60 |  :white_check_mark:  |
 | Trivial Flag Transfer Protocol     |     90 |  :white_check_mark:  |
 | Wireshark twoo twooo two twoo...   |    100 |  :white_check_mark:  |
-| Disk, disk, sleuth!                |    110 |  :white_check_mark:  |
+| [Disk, disk, sleuth!](/Forensics/DiskDiskSleuth1)                |    110 |  :white_check_mark:  |
 | [Disk, disk, sleuth! II](/Forensics/DiskDiskSleuth2)   |    130 |  :white_check_mark:  |
 | Surfing the Waves                  |    150 |  :white_check_mark:  |
 | [Milkslap](/Forensics/Milkslap)                           |    200 |  :white_check_mark:  |
