@@ -49,7 +49,7 @@ For the following tables,
 | More Cookies                       |     90 |  :white_check_mark:  |
 | It is my Birthday                       |     100 |  :white_check_mark:  |
 | Some Assembly Required 2           |     110 |  :white_check_mark:  |
-| [Super Serial](/Web%20Exploitation/Some%20Assembly%20Required%201)                       |     130 |  :white_check_mark:  |
+| [Super Serial](/Web%20Exploitation/Super%20Serial)                       |     130 |  :white_check_mark:  |
 | [Most Cookies](/Web%20Exploitation/Most%20Cookies)                       |     150 |  :white_check_mark:  |
 | Some Assembly Required 3           |     160 |  :white_check_mark:  |
 | Web Gauntlet 2           |     170 |  :white_check_mark:  |
